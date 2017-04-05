@@ -5,7 +5,7 @@ Double color blinking LED using Slide switch
 
 - Wire the double color LED as mentioned in the picture
 
-![stack Overflow](http://lmsotfy.com/so.png)
+![Wiring Picture](https://github.com/titusece/Double_Color_Blink_LED/blob/master/RED_GREEN_Double_Color_bb.jpg)
 
 - Upload the code.
 
